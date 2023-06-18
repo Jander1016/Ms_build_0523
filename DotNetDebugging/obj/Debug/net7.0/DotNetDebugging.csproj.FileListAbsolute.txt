@@ -1,0 +1,15 @@
+C:\Microsoft Build 05-2023\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Microsoft Build 05-2023\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Microsoft Build 05-2023\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Microsoft Build 05-2023\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Microsoft Build 05-2023\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Microsoft Build 05-2023\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
