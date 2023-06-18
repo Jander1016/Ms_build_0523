@@ -1,0 +1,7 @@
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.exe
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.dll
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.deps.json
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+C:\Microsoft Build 05-2023\AlpineSkiHouse\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.pdb
