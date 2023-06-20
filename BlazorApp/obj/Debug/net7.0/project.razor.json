@@ -87,6 +87,43 @@
         }
       },
       {
+        "HashCode": 1205561274,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Todo",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.Todo",
+          "Common.TypeNameIdentifier": "Todo",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1440012185,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Todo",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "BlazorApp.Pages.Todo",
+          "Common.TypeNameIdentifier": "Todo",
+          "Common.TypeNamespace": "BlazorApp.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -31151033,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.Counter",
@@ -140,43 +177,6 @@
         "Metadata": {
           "Common.TypeName": "BlazorApp.Pages.Counter",
           "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "BlazorApp.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1205561274,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Todo",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Todo"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorApp.Pages.Todo",
-          "Common.TypeNameIdentifier": "Todo",
-          "Common.TypeNamespace": "BlazorApp.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1440012185,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Todo",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp.Pages.Todo"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "BlazorApp.Pages.Todo",
-          "Common.TypeNameIdentifier": "Todo",
           "Common.TypeNamespace": "BlazorApp.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
